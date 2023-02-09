@@ -21,7 +21,7 @@ const OPlayer = (props: PlayerProps) => {
   const playerRef = useRef<Player>();
   const imagePoster = !poster
     ? undefined
-    : `https://images.weserv.nl/?url=${poster}`;
+    : `https://weserv.irn.workers.dev/?url=${poster}`;
 
   useEffect(() => {
     if (playerRef.current) return;
