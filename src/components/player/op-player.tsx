@@ -64,7 +64,7 @@ const OPlayer = (props: PlayerProps) => {
             if (!malId) return;
 
             const res = await fetch(
-              `https://api.aniskip.com/v2/skip-times/${malId}/${episodeNumber}?types=op&types=recap&types=mixed-op&types=ed&types=mixed-ed&episodeLength=0`
+              `https://aniskip.irn.workers.dev/v2/skip-times/${malId}/${episodeNumber}?types=op&types=recap&types=mixed-op&types=ed&types=mixed-ed&episodeLength=0`
             );
 
             let data = await res.json();
