@@ -1,5 +1,5 @@
 import getJSON from './api';
-const BASE_URL = 'https://api.consumet.org';
+const BASE_URL = 'https://consumet.irn.workers.dev';
 
 const api = {
   popularAnime: (page: string | number): Promise<any> => {
