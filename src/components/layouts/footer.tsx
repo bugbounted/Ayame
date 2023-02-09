@@ -9,22 +9,17 @@ const LINKS = [
   {
     title: "github",
     Icon: AiFillGithub,
-    href: "https://github.com/geekyAnkush",
+    href: "https://github.com/bugbounted",
   },
   {
     title: "email",
     Icon: BsMessenger,
-    href: "mailto:000.kumarankush@gmail.com",
-  },
-  {
-    title: "linkedin",
-    Icon: BsLinkedin,
-    href: "https://linkedin.com/in/kumar-ankush-57596118b",
+    href: "mailto:pmbeman@pm.me",
   },
   {
     title: "twitter",
     Icon: BsTwitter,
-    href: "https://twitter.com/geekyAnkush",
+    href: "https://twitter.com/bugbounted",
   },
 ];
 
