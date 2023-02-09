@@ -60,14 +60,14 @@ const Footer = () => {
             ))}
           </div>
           <p className="max-w-[850px] w-full text-slate-300 text-sm">
-            Ayame is not affiliated with or endorsed by any of the anime studios
+            Animefx is not affiliated with or endorsed by any of the anime studios
             behind the creation of the anime presented on this site. This
             website is only an user interface presenting/linking various
             self-hosted files across the internet by other third-party providers
             for easy access.
           </p>
           <p className="text-slate-300 text-sm">
-            © Ayame 2023 | Built with Consumet and Enime API
+            © Animefx 2023 | Built by Bugbounted
           </p>
         </div>
       </div>
