@@ -1,6 +1,6 @@
 export const CONSUMET_URL = "https://consumet.irn.workers.dev";
 export const ENIME_URL = "https://enimemoe.irn.workers.dev/";
-export const CORS_PROXY = "https://cors.consumet.stream/";
+export const CORS_PROXY = "https://consumetstream.irn.workers.dev/";
 export const PAGE = 1;
 export const GOGO_PROVIDER = "gogoanime";
 export const ZORO_PROVIDER = "zoro";
