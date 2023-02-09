@@ -131,12 +131,12 @@ const Header = () => {
                 containerclassname="relative h-[24px] w-[24px] md:h-[30px] md:w-[30px] mr-2"
                 layout="fill"
                 src={logo}
-                alt="Ayame"
+                alt="Animefx"
                 priority
               />
             </div>
             <span className="text-sm md:text-[20px] 2xl:[30px] font-semibold uppercase">
-              Ayame
+              Animefx By Bugbounted
             </span>
           </span>
         </Link>
